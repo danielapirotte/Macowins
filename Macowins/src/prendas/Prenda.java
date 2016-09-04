@@ -2,7 +2,7 @@ package prendas;
 
 public class Prenda {
 	
-
+lel probando
 	private boolean esImportado = true;
 	public double precioBase;
 	static double ValorFijoDelNegocio = 50;
